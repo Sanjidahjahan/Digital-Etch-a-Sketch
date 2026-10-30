@@ -46,7 +46,7 @@ The goal of this project is to make digital drawing feel more playful and hands-
 
 ## Circuit Diagram
 
-The Fritzing circuit diagram will be added here.
+![Digital Etch A Sketch Circuit Diagram](etch-a-sketch_fritzing.jpg)
 
 ## Demonstration
 
