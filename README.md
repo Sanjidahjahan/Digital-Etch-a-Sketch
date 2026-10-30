@@ -50,7 +50,7 @@ The Fritzing circuit diagram will be added here.
 
 ## Demonstration
 
-![Digital Etch A Sketch Demo](etch-a-sketch-demo.gif)
+![Digital Etch A Sketch Demo](Etch-a-sketch-demo.gif)
 
 ## Author
 
