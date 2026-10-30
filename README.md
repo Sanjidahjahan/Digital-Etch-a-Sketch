@@ -62,3 +62,4 @@ Two examples of prompts I used were: "Why does my Mac show the cu.usbserial port
 
 I used the suggestions to help troubleshoot and make changes, then tested the code and hardware to see what worked for my project.
 
+✮⋆˙ More project documentation and process details: [View my blog post](https://sanjidahjahan.github.io/fall2026-design-documentation/). ˙⋆✮
