@@ -8,7 +8,7 @@ Instead of turning physical knobs like the original toy, users move a joystick t
 
 ## My Design Goals
 
-I wanted to make digital drawing feel more hands-on and playful by using physical controls instead of a mouse. I kept the red frame of the original Etch A Sketch but gave the interface a different look with a pink-toned drawing area and different settings for the brush size and color.
+I wanted to make digital drawing feel more hands-on and playful by using the physical controls required for the project. I kept the same red frame of the original Etch A Sketch but gave the interface a slightly different look with a pink-toned drawing area and colorful indicators for the brush size and color settings.
 
 My main goal was to create a simple and easy drawing experience where users can feel the nostalgia of the original toy while also experimenting with different colors and brush sizes. 
 
